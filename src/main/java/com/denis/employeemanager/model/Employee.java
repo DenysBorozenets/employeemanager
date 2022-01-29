@@ -3,6 +3,8 @@ package com.denis.employeemanager.model;
 import javax.persistence.*;
 import java.io.Serializable;
 
+//Test GitHub desktop
+
 @Entity
 public class Employee implements Serializable {
     @Id
